@@ -14,14 +14,14 @@
     "clipboard"
   ],
   "license": "MIT",
-  "author": "[YOUR NAME] <[YOU@EXAMPLE.COM]>",
-  "homepage": "https://github.com/[OWNER]/dsh-qr-link#readme",
+  "author": "bbwy <392138239-pixel@users.noreply.github.com>",
+  "homepage": "https://github.com/392138239-pixel/dsh-qr-link#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[OWNER]/dsh-qr-link.git"
+    "url": "git+https://github.com/392138239-pixel/dsh-qr-link.git"
   },
   "bugs": {
-    "url": "https://github.com/[OWNER]/dsh-qr-link/issues"
+    "url": "https://github.com/392138239-pixel/dsh-qr-link/issues"
   },
   "type": "module",
   "exports": {
