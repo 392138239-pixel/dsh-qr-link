@@ -46,7 +46,7 @@ dsh plugin --profile web add dsh-qr-link
 或直接从仓库：
 
 ```bash
-dsh plugin --profile web add github:[OWNER]/dsh-qr-link
+dsh plugin --profile web add github:392138239-pixel/dsh-qr-link
 ```
 
 装完点输入框左下角（权限控件旁边）的二维码按钮。
