@@ -48,7 +48,7 @@ dsh plugin --profile web add dsh-qr-link
 or straight from the repository:
 
 ```bash
-dsh plugin --profile web add github:[OWNER]/dsh-qr-link
+dsh plugin --profile web add github:392138239-pixel/dsh-qr-link
 ```
 
 Then open the QR button in the composer tool row (left side, next to the permission control).
